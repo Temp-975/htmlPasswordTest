@@ -1,3 +1,4 @@
 var pass = document.getElementById("pass");
 var display = document.getElementById("display");
-setInterval(function() {display.innerHTML = pass.value;});
+//setInterval(function() {display.innerHTML = pass.value;});
+pass.value = "aplejasjdmawodkj";
